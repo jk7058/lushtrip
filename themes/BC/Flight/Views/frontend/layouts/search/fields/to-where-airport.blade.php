@@ -1,0 +1,1 @@
+@include('Flight::frontend.layouts.search.fields.airport',['inputName'=>'to_airport']) 
